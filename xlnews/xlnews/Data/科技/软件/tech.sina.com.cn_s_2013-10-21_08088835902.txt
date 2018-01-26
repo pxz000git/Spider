@@ -1,0 +1,1 @@
+　　作者：张林　　微软在App Developer博客中宣布，Win8.1预览版开发的应用将不会出现在Windows Store，这些应用需要升级适用于Win8.1发布版才可在Windows Store中出现。　　Win8.1 GA版的推出同时也意味着应用开发者终于可以开发与微软最新Win8.1完全兼容的应用了。　　Windows Store商店中现有的应用可采用Win8.1的新功能进行升级。　　Win8.1中Windows Store的应用包现在已升至8GB，Windows Store采用了新的界面，这可以帮助用户更快更高效地找到所需的应用。　　Bing搜索引擎可向用户推荐新的应用，这些应用首次实现自动更新。

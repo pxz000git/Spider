@@ -1,0 +1,1 @@
+　　新浪科技讯 10月19日上午消息，谷歌刚刚在香港发布了Android 4.0，面向开发人员的SDK也同步推出，目前已可下载。　　　　1、系统对硬件没有要求；　　2、全新设计的UI；　　3、单一的API框架；　　4、重新设计动作栏；　　5、面部识别软件；　　6、虚拟摄像机操作；　　7、USB支持；　　8、集成Google电视和Chrome OS智能停放　　Android SDK for Windows：　　Android SDK for Linux：　　Android SDK for Mac： 

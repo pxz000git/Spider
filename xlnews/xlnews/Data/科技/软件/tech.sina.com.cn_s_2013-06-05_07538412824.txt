@@ -1,0 +1,1 @@
+　　作者：马荣　　在月底召开的Build2013大会上，我们除了能看到Windows 8.1，还将获得Visual Studio 2013的预览版。Visual Studio 2013中加入了很多新的功能，比如能看到具体的一条代码的作者。　　　　提供敏捷项目组合管理，提高团队协作；　　整合微软System Center IT管理平台；　　支持代码评论功能；　　新增代码信息指示。　　除此之外Visual Studio 2013还有团队工作室、身份识别、.NET内存转储分析仪、Git支持等特性，可以看出这次将团队合作作为了一个重要的部分，结合Windows Azure云平台进行同步协作。　　与Windows系列一样，Visual Studio也改变了更新节奏，采取更快的产品迭代，这次距Visual Studio 2012的发布还不到一年。

@@ -1,0 +1,1 @@
+　　PDF文档阅读工具Foxit登陆Windows Store应用商店，支持/RT系统，x86/ARM平台均可使用。Foxit继推出iOS、Android平台应用之后现在又推出Windows 8版本，正在移动领域不断拓展。　　出现在微软Windows Store应用商店的Foxit Mobile PDF是一款免费应用，目前版本功能包括基本的Pdf文档阅读以及、旋转、注释等，支持英语和简体中文。　　其实，Windows 8系统自带的“阅读器”应用已经原生支持PDF文档，Foxit应用对Win8用户使用PDF文件提供了更丰富的的选择。

@@ -1,0 +1,1 @@
+　　作者：马荣　　微软的Visual Studio团队日前放出了Visual Studio 2012 Update 2的升级，本次升级主要增加了一系列新功能，并对之前存在的Bug进行了修复。　　本次新版本名为Visual Studio 2012.2，加入的新功能主要包括敏捷规划、质量支持、业务线应用程序开发和开发体验，此外Windows Store开发也过得了一些新功能。　　与Windows和Windows Phone、Windows Azure等产品一样，Visual Studio也一改两三年一版的更新周期，改为更频繁的迭代周期，从而更贴近用户的需求。　　Visual Studio 2012.2官方下载地址http://www.microsoft.com/zh-cn/download/details.aspx?id=38188
